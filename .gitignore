@@ -1,0 +1,6 @@
+# .gitignore
+
+
+# Java files
+
+*.class
